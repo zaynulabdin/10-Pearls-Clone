@@ -1,0 +1,486 @@
+@media screen and (max-width: 1410px) {
+  .navbar-nav {
+    margin-left: 20% !important;
+    gap: 18% !important;
+  }
+}
+
+@media screen and (max-width: 1315px) {
+  .navbar-nav {
+    margin-left: 16% !important;
+    gap: 16% !important;
+  }
+
+  .navbar ul a {
+    font-size: 18px !important;
+    font-weight: 500 !important;
+  }
+}
+
+@media screen and (max-width: 1185px) {
+  .navbar-nav {
+    margin-left: 20% !important;
+    gap: 8% !important;
+  }
+}
+
+@media screen and (max-width: 1130px) {
+  .navbar-nav {
+    margin-left: 18% !important;
+    gap: 5% !important;
+  }
+
+  .form-control {
+    font-size: 14px !important;
+  }
+}
+
+@media screen and (max-width: 1045px) {
+  .navbar-nav {
+    margin-left: 16% !important;
+    gap: 4% !important;
+  }
+
+  .form-control {
+    font-size: 12px !important;
+  }
+}
+
+@media screen and (max-width: 1236px) {
+  /* .main-nav .nav_bar {
+    gap: 2rem;
+    margin-left: 5%;
+  } */
+  .c-heading {
+    text-align: center;
+  }
+  .highlight_text {
+    text-align: center;
+  }
+  .card {
+    height: 100vh;
+    background-repeat: no-repeat;
+  }
+  .card_text {
+    height: 40vh;
+  }
+}
+
+@media screen and (max-width: 999px) {
+  /* .logo_img {
+    height: 38px;
+  }
+
+  .nav-toggle {
+    display: block;
+    margin-right: 20px;
+    padding-bottom: 6px;
+  }
+
+  .search-container {
+    padding-left: 400px;
+  }
+
+  .nav_bar li,
+  .nav_btn {
+    display: none;
+  } */
+
+  .main_heading {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1;
+  }
+
+  .main_para {
+    font-weight: 300;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 1.5;
+  }
+
+  h4 {
+    font-size: 20px;
+  }
+
+  .btn_div {
+    padding: 10px 50px;
+  }
+
+  .main_btn {
+    font-weight: 200;
+    width: 150px;
+  }
+
+  .ai_div {
+    padding: 10px 50px;
+  }
+
+  .ai_img {
+    height: 120px;
+    width: 450px;
+  }
+
+  .company_heading {
+    justify-content: center;
+    font-size: 2.5em;
+    transform: translate(0%, 3%);
+  }
+
+  .comp {
+    width: 109px;
+    padding: 15px;
+  }
+
+  .highlight_text {
+    display: flex;
+    justify-content: center;
+    padding: 25px 50px;
+  }
+
+  .inner_card {
+    padding-top: 250px;
+  }
+
+  .card_text {
+    width: 50%;
+    height: 30vh;
+    padding: 5px 55px 0;
+  }
+
+  .card_heading {
+    font-size: 35px;
+    line-height: 33px;
+  }
+
+  .card_para {
+    font-size: 20px;
+    line-height: 22px;
+  }
+
+  .case_studies .box_wrap {
+    max-width: 1440px;
+    width: 100%;
+  }
+
+  .case_studies h2 {
+    font-size: 22px;
+  }
+
+  .column {
+    height: 350px;
+  }
+
+  .text_wrap {
+    height: 135px;
+  }
+
+  .text_wrap h3 {
+    line-height: 10px;
+  }
+
+  .text_wrap hr {
+    width: 97.12px;
+  }
+
+  .text_wrap h5 {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 65px;
+    margin-bottom: 8px;
+  }
+
+  .text_wrap p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+  }
+
+  .readmore_anchor {
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .footer_logo-img {
+    width: 130px;
+  }
+
+  .footer_logo_para {
+    line-height: 28px !important;
+    padding-top: 20px;
+    font-weight: 300;
+    font-size: 14px;
+  }
+
+  .footer_column2 {
+    padding-right: 0px;
+    padding-left: 35px;
+  }
+
+  .footer_column2 a {
+    font-size: 15px;
+    font-weight: 600;
+  }
+
+  .footer_column3 {
+    padding-right: 0px;
+    padding-left: 25px;
+  }
+
+  .footer_column3 a {
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .footer_lower {
+    justify-content: space-evenly;
+  }
+}
+
+@media screen and (max-width: 870px) {
+  /* .logo_container img {
+    height: 45px;
+  }
+
+  .search-container {
+    padding-left: 45%;
+  }
+
+  .nav-toggle {
+    margin-right: 4%;
+    padding-left: 1%;
+  } */
+
+  .highlight_text {
+    font-size: 35px;
+  }
+
+  .card_text {
+    width: 65%;
+    height: 30vh;
+  }
+  .column {
+    height: 280px;
+  }
+  .text_wrap p {
+    font-size: 12px;
+    line-height: 13px;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .logo_container img {
+    height: 40px;
+  }
+
+  .search-container {
+    padding-left: 35%;
+  }
+
+  .nav-toggle {
+    margin-right: 8%;
+    padding-left: 1%;
+  }
+
+  .highlight_text {
+    font-size: 28px;
+  }
+
+  .slideshow {
+    height: 400px; /* Adjust as needed */
+    margin: 10px 0 0;
+  }
+
+  .card {
+    background-size: contain;
+    background-position: center;
+    margin-top: 1px;
+    height: 55vh;
+  }
+
+  .inner_card {
+    padding-top: 160px;
+  }
+
+  .card_text {
+    background: #2c2c24d9;
+    width: 40%;
+    height: 19vh;
+  }
+
+  .card_heading {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 10px;
+  }
+
+  .card_para {
+    font-size: 12px;
+    font-weight: 200;
+    line-height: 14px;
+    margin-bottom: 5px;
+  }
+
+  .card_link {
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .case_studies {
+    margin-top: 10px;
+    padding: 40px;
+    flex-wrap: wrap;
+  }
+
+  .case_studies h2 {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 25px;
+  }
+
+  .row {
+    display: block;
+  }
+
+  .footer_main {
+    padding-top: 10px;
+    text-align: center;
+  }
+
+  .footer_container {
+    display: flex;
+  }
+
+  .footer_row {
+    display: block;
+    margin: 0;
+  }
+
+  .footer_column {
+    border-right: none;
+    max-width: 100%;
+  }
+
+  .footer_logo-img {
+    width: 150px;
+  }
+
+  .footer_logo_para {
+    width: 100%;
+  }
+
+  .footer_column2 {
+    padding-left: 50px;
+    border-top: 1px solid #ffffff;
+  }
+
+  .footer_column2 a {
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  .footer_column3 {
+    padding-left: 50px;
+  }
+
+  .footer_column3 a {
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  .lower-row {
+    display: block;
+    padding: 10px 0;
+  }
+
+  .lower-column {
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 10px;
+  }
+}
+
+@media screen and (max-width: 515px) {
+  /* .logo_container img {
+    height: 38px;
+  }
+  .search-container {
+    padding-left: 20%;
+  } */
+  .banner_container {
+    text-align: center;
+  }
+  .btn_div {
+    padding: 0;
+    text-align: -webkit-center;
+  }
+  .main_btn {
+    width: 124px;
+    font-size: 16px;
+  }
+  .ai_img {
+    height: 95px;
+    width: 300px;
+  }
+
+  .company_heading {
+    font-size: 2em;
+  }
+  .highlight_text {
+    font-size: 22px;
+  }
+  .slideshow {
+    height: 375px;
+  }
+  .slide {
+    width: 65%;
+  }
+  .card {
+    text-align: center;
+  }
+  .inner_card {
+    padding-top: 165px;
+    width: 100%;
+  }
+  .card_text {
+    width: 80%;
+    height: 80%;
+  }
+  .card_heading {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 10px;
+  }
+
+  .card_para {
+    font-size: 10px;
+    font-weight: 200;
+    line-height: 14px;
+    margin-bottom: 5px;
+  }
+
+  .case_studies h2 {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 20px;
+  }
+  .text_wrap {
+    height: 115px;
+  }
+  .text_wrap h3 {
+    line-height: 5px;
+    font-size: 16px;
+  }
+
+  .text_wrap hr {
+    width: 77.12px;
+  }
+
+  .text_wrap h5 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 55px;
+    margin-bottom: 8px;
+  }
+}
